@@ -1,6 +1,6 @@
 # Quizzler
 
-Quizller is a  trivia quiz app
+Quizzler is a  trivia quiz app
 
 programmatically change UI elements such as Labels and Buttons.
 What is a design pattern and how is it used in programming.
