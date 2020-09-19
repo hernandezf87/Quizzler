@@ -1,5 +1,7 @@
 # Quizzler
 
+Quizller is a  trivia quiz app
+
 programmatically change UI elements such as Labels and Buttons.
 What is a design pattern and how is it used in programming.
 The use of Model-View-Controller or MVC pattern for app development.
