@@ -11,3 +11,4 @@ Use of Swift Classes and Objects.
 Compare Swift Classes with Swift Structs and know when to use which.
 Object Oriented Programming.
 How to refactor code and stay organised.
+(https://user-images.githubusercontent.com/53067972/98054701-8b382080-1df0-11eb-962d-23986cdb9277.png)
